@@ -1,0 +1,6 @@
+{
+  "name": "GeoStamp Camera",
+  "description": "An elegant camera application that automatically stamps geographical location coordinates, altitude, address, and live timestamps directly onto captured photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

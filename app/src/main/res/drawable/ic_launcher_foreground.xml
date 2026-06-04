@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background subtle compass/lens ring decoration -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1F3B82F6"
+        android:strokeWidth="1.5"
+        android:pathData="M 54 18 A 36 36 0 1 1 53.99 18 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1F3B82F6"
+        android:strokeWidth="1"
+        android:strokeLineJoin="round"
+        android:pathData="M 54 10 L 54 16 M 54 90 L 54 96 M 10 54 L 16 54 M 90 54 L 96 54" />
+
+    <!-- Explorer Camera body shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 28 36 C 28 33.8 29.8 32 32 32 L 44 32 L 48 27 L 60 27 L 64 32 L 76 32 C 78.2 32 80 33.8 80 36 L 80 68 C 80 70.2 78.2 72 76 72 L 32 72 C 29.8 72 28 70.2 28 68 Z" />
+        
+    <!-- Main Lens Outer Slate Ring -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 54 39 C 45.7 39 39 45.7 39 54 C 39 62.3 45.7 69 54 69 C 62.3 69 69 62.3 69 54 C 69 45.7 62.3 39 54 39 Z" />
+
+    <!-- Custom GPS Pin Silhouette inside lens -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M 54 44 C 50.7 44 48 46.7 48 50 C 48 54.5 54 61 54 61 C 54 61 60 54.5 60 50 C 60 46.7 57.3 44 54 44 Z" />
+        
+    <!-- Tiny center white dot inside Pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54 48 C 52.9 48 52 48.9 52 50 C 52 51.1 52.9 52 54 52 C 55.1 52 56 51.1 56 50 C 56 48.9 55.1 48 54 48 Z" />
+        
+    <!-- Flash LED indicator -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M 72 37 C 73.1 37 74 37.9 74 39 C 74 40.1 73.1 41 72 41 C 70.9 41 70 40.1 70 39 C 70 37.9 70.9 37 72 37 Z" />
+        
+</vector>
